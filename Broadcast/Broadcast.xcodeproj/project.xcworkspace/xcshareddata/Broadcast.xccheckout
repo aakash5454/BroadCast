@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50C4C82F-AB7F-483E-9CEE-B630134AE17D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E914925E050278CE4247BB454AFD26D5451E311B</key>
+		<string>https://github.com/BroadcastTV/BroadCast.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Broadcast/Broadcast.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E914925E050278CE4247BB454AFD26D5451E311B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BroadcastTV/BroadCast.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E914925E050278CE4247BB454AFD26D5451E311B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E914925E050278CE4247BB454AFD26D5451E311B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Broadcast</string>
+		</dict>
+	</array>
+</dict>
+</plist>
