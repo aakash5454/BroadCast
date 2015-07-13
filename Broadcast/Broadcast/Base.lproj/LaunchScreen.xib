@@ -10,10 +10,16 @@
             <rect key="frame" x="0.0" y="0.0" width="375" height="673"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="splash_screen.png" translatesAutoresizingMaskIntoConstraints="NO" id="ako-nV-dBK">
-                    <rect key="frame" x="0.0" y="0.0" width="375" height="677"/>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_screen.png" translatesAutoresizingMaskIntoConstraints="NO" id="ako-nV-dBK">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="673"/>
                 </imageView>
             </subviews>
+            <constraints>
+                <constraint firstItem="ako-nV-dBK" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="7bv-HZ-ZpI"/>
+                <constraint firstItem="ako-nV-dBK" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="FmW-xc-BPT"/>
+                <constraint firstAttribute="bottom" secondItem="ako-nV-dBK" secondAttribute="bottom" id="PeU-FR-RTC"/>
+                <constraint firstAttribute="trailing" secondItem="ako-nV-dBK" secondAttribute="trailing" id="onX-OE-C4N"/>
+            </constraints>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <point key="canvasLocation" x="473.5" y="434.5"/>
